@@ -8,7 +8,7 @@ The advantage of this approach is that it makes an explicit link between an ML m
 
 To build and train the model, open the jupyter notebook contained in the custom-loss folder and follow the instructions in the notebook.
 
-Additionally, there is a notebook in the custom-loss folder called "Training_Models_with_Unequal_Economic_Error_Costs_in_SageMaker.ipynb" that trains the model locally and does not depend upon Sagemaker.
+Additionally, there is a notebook in the custom-loss folder called "Training_Models_with_Unequal_Economic_Error_Costs.ipynb" that trains the model locally and does not depend upon Sagemaker.
 
 ## License Summary
 
