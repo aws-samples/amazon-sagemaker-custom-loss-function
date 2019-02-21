@@ -10,6 +10,8 @@ To build and train the model, open the jupyter notebook contained in the custom-
 
 Additionally, there is a notebook in the custom-loss folder called "Training_Models_with_Unequal_Economic_Error_Costs.ipynb" that trains the model locally and does not depend upon Sagemaker.
 
+The blog post associated with this repo is located <a href='https://aws.amazon.com/blogs/machine-learning/training-models-with-unequal-economic-error-costs-using-amazon-sagemaker/'>here</a>.
+
 ## License Summary
 
 This sample code is made available under a modified MIT license. See the LICENSE file.
